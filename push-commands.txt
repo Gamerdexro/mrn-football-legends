@@ -1,0 +1,7 @@
+# RUN THESE COMMANDS AFTER CREATING GITHUB REPOSITORY
+# Replace YOUR_USERNAME with your actual GitHub username
+
+cd "c:/Users/IT Engineer/Documents/mrn football legend 107"
+"C:\Program Files\Git\bin\git.exe" remote add origin https://github.com/YOUR_USERNAME/mrn-football-legends.git
+"C:\Program Files\Git\bin\git.exe" branch -M main
+"C:\Program Files\Git\bin\git.exe" push -u origin main

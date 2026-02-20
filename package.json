@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
+    "start": "node start-railway.js",
     "websocket": "node websocket-server.cjs",
     "start:full": "concurrently \"npm run websocket\" \"npm run dev\""
   },
