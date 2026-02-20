@@ -403,9 +403,14 @@ export const useAuthStore = create<ExtendedAuthState>((set, get) => {
         loginWithGoogle: async () => {
             set({ isLoading: true });
             try {
-                const user = await AuthService.loginWithGoogle();
-                set({ user, isAuthenticated: true, isLoading: false });
-                persistUser(user);
+                const result = await AuthService.loginWithGoogle();
+                if (result.success && result.user) {
+                    set({ user: result.user, isAuthenticated: true, isLoading: false });
+                    persistUser(result.user);
+                } else {
+                    set({ isLoading: false });
+                    throw new Error(result.error || 'Google login failed');
+                }
             } catch (error) {
                 set({ isLoading: false });
                 throw error;
