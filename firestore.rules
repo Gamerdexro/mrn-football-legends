@@ -1,0 +1,112 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // --- AUTHENTICATION & USER DATA ---
+    
+    // Users collection
+    match /users/{userId} {
+      function isSignedIn() {
+        return request.auth != null;
+      }
+
+      function isOwner() {
+        return isSignedIn()
+               && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'Owner';
+      }
+
+      function isFriendFieldsOnlyUpdate() {
+        return request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+          'friends',
+          'friendRequestsSent',
+          'friendRequestsReceived'
+        ]);
+      }
+
+      // Any signed-in user can read user profiles
+      allow read: if isSignedIn();
+
+      // Create: user can create their own document
+      allow create: if isSignedIn()
+                    && request.auth.uid == userId;
+
+      // Update:
+      // - Normal users can update their own document but cannot change their role
+      // - Owner can update any user document (needed for gifting, stats updates, etc.)
+      allow update: if isSignedIn()
+                    && (
+                      (request.auth.uid == userId
+                       && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['role']))
+                      || isOwner()
+                      || isFriendFieldsOnlyUpdate()
+                    );
+
+      // Delete: only Owner can delete user documents
+      allow delete: if isOwner();
+    }
+
+    // Username directory: maps username -> uid
+    match /usernames/{usernameKey} {
+      // Any signed-in user can look up usernames (for friends, gifting, etc.)
+      allow read: if request.auth != null;
+      // Only the owner of the uid can claim a username document
+      allow create: if request.auth != null
+                    && request.resource.data.uid == request.auth.uid;
+    }
+
+    // --- ECONOMY & MARKET ---
+    
+    // Premium Shop is Read-Only for players
+    match /premium_shop/global_config {
+      allow read: if request.auth != null;
+      allow write: if request.auth.token.role in ['Owner', 'Admin'];
+    }
+    
+    // Market Listings
+    match /market_listings/{listingId} {
+      allow read: if true;
+      // Users can only create listings for their own players (validated via Cloud Function preferably, but here's basic logic)
+      allow create: if request.auth != null && request.resource.data.sellerId == request.auth.uid;
+      // Only the seller can cancel/delete
+      allow delete: if request.auth != null && resource.data.sellerId == request.auth.uid;
+    }
+
+    // --- LOGS (AUDIT) ---
+    match /admin_logs/{logId} {
+      allow read: if request.auth != null
+                  && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'Owner';
+      allow write: if false;
+    }
+
+    // --- ADMIN ABUSE SUNDAY ---
+    function isAdminUser() {
+      return request.auth != null
+             && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role in ['Owner', 'Admin'];
+    }
+
+    match /admin_abuse_messages/{messageId} {
+      allow read: if isAdminUser();
+      allow write: if isAdminUser();
+    }
+
+    match /admin_abuse_offers/{offerId} {
+      allow read: if isAdminUser();
+      allow write: if isAdminUser();
+    }
+
+    match /admin_abuse_music/{docId} {
+      allow read: if isAdminUser();
+      allow write: if isAdminUser();
+    }
+
+    match /admin_abuse_state/{docId} {
+      allow read: if isAdminUser();
+      allow write: if isAdminUser();
+    }
+
+    match /admin_abuse_notifications/{notificationId} {
+      allow read: if isAdminUser();
+      allow write: if isAdminUser();
+    }
+  }
+}

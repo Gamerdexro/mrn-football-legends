@@ -1,0 +1,40 @@
+{
+  "name": "mrn-football-legends",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "websocket": "node websocket-server.cjs",
+    "start:full": "concurrently \"npm run websocket\" \"npm run dev\""
+  },
+  "dependencies": {
+    "@react-three/cannon": "^6.6.0",
+    "@react-three/drei": "^9.96.1",
+    "@react-three/fiber": "^8.15.12",
+    "@supabase/supabase-js": "^2.97.0",
+    "clsx": "^2.1.0",
+    "concurrently": "^8.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.13.0",
+    "tailwind-merge": "^2.2.1",
+    "three": "^0.160.0",
+    "ws": "^8.16.0",
+    "zustand": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@types/three": "^0.160.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.2.2",
+    "vite": "^7.3.1",
+    "vite-plugin-compression": "^0.5.1"
+  }
+}

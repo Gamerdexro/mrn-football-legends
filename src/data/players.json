@@ -1,0 +1,6739 @@
+[
+  {
+    "id": "PLAYER_001",
+    "name": "Alen Krovas",
+    "position": "GK",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "gk_diving": 64,
+      "gk_reflexes": 63,
+      "gk_handling": 60,
+      "gk_positioning": 61,
+      "gk_kicking": 58,
+      "physical": 66,
+      "stamina": 55,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_002",
+    "name": "Riko Valdan",
+    "position": "RB",
+    "rarity": "Standard",
+    "ovr": 60,
+    "stats": {
+      "speed": 64,
+      "shooting": 45,
+      "passing": 56,
+      "ball_control": 57,
+      "dribbling": 55,
+      "defense": 60,
+      "physical": 62,
+      "stamina": 65,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_003",
+    "name": "Maron Hexel",
+    "position": "CB",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "speed": 55,
+      "shooting": 42,
+      "passing": 54,
+      "ball_control": 52,
+      "dribbling": 50,
+      "defense": 64,
+      "physical": 68,
+      "stamina": 63,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_004",
+    "name": "Trevon Silas",
+    "position": "CB",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 56,
+      "shooting": 43,
+      "passing": 55,
+      "ball_control": 53,
+      "dribbling": 51,
+      "defense": 65,
+      "physical": 69,
+      "stamina": 64,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_005",
+    "name": "Lio Kendrix",
+    "position": "LB",
+    "rarity": "Standard",
+    "ovr": 60,
+    "stats": {
+      "speed": 63,
+      "shooting": 44,
+      "passing": 56,
+      "ball_control": 56,
+      "dribbling": 54,
+      "defense": 61,
+      "physical": 61,
+      "stamina": 66,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_006",
+    "name": "Nexo Barin",
+    "position": "DMF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 58,
+      "shooting": 50,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 57,
+      "defense": 64,
+      "physical": 66,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_007",
+    "name": "Arvid Molner",
+    "position": "CMF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 61,
+      "shooting": 54,
+      "passing": 64,
+      "ball_control": 63,
+      "dribbling": 61,
+      "defense": 58,
+      "physical": 60,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_008",
+    "name": "Cairo Venn",
+    "position": "AMF",
+    "rarity": "Standard",
+    "ovr": 65,
+    "stats": {
+      "speed": 63,
+      "shooting": 62,
+      "passing": 66,
+      "ball_control": 67,
+      "dribbling": 68,
+      "defense": 52,
+      "physical": 58,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_009",
+    "name": "Zayn Morato",
+    "position": "RWF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 70,
+      "shooting": 60,
+      "passing": 58,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 48,
+      "physical": 57,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_010",
+    "name": "Eron Falco",
+    "position": "LWF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 71,
+      "shooting": 61,
+      "passing": 59,
+      "ball_control": 65,
+      "dribbling": 67,
+      "defense": 47,
+      "physical": 56,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_011",
+    "name": "Kiro Danex",
+    "position": "CF",
+    "rarity": "Standard",
+    "ovr": 66,
+    "stats": {
+      "speed": 68,
+      "shooting": 68,
+      "passing": 55,
+      "ball_control": 63,
+      "dribbling": 64,
+      "defense": 45,
+      "physical": 65,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_012",
+    "name": "Vexo Larnic",
+    "position": "RMF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 66,
+      "shooting": 56,
+      "passing": 62,
+      "ball_control": 61,
+      "dribbling": 63,
+      "defense": 50,
+      "physical": 58,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_013",
+    "name": "Darin Solvek",
+    "position": "LMF",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 65,
+      "shooting": 55,
+      "passing": 60,
+      "ball_control": 60,
+      "dribbling": 62,
+      "defense": 51,
+      "physical": 57,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_014",
+    "name": "Huron Calex",
+    "position": "CB",
+    "rarity": "Standard",
+    "ovr": 60,
+    "stats": {
+      "speed": 54,
+      "shooting": 40,
+      "passing": 52,
+      "ball_control": 50,
+      "dribbling": 48,
+      "defense": 63,
+      "physical": 67,
+      "stamina": 62,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_015",
+    "name": "Kavin Rosto",
+    "position": "RB",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "speed": 64,
+      "shooting": 46,
+      "passing": 57,
+      "ball_control": 56,
+      "dribbling": 55,
+      "defense": 62,
+      "physical": 63,
+      "stamina": 66,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_016",
+    "name": "Elmar Dovik",
+    "position": "LB",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "speed": 63,
+      "shooting": 45,
+      "passing": 58,
+      "ball_control": 57,
+      "dribbling": 56,
+      "defense": 61,
+      "physical": 62,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_017",
+    "name": "Ryo Fenrik",
+    "position": "DMF",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 57,
+      "shooting": 49,
+      "passing": 59,
+      "ball_control": 58,
+      "dribbling": 56,
+      "defense": 63,
+      "physical": 65,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_018",
+    "name": "Silan Varek",
+    "position": "CMF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 60,
+      "shooting": 53,
+      "passing": 63,
+      "ball_control": 62,
+      "dribbling": 60,
+      "defense": 57,
+      "physical": 59,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_019",
+    "name": "Timo Alrex",
+    "position": "AMF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 62,
+      "shooting": 61,
+      "passing": 65,
+      "ball_control": 66,
+      "dribbling": 67,
+      "defense": 51,
+      "physical": 57,
+      "stamina": 66,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_020",
+    "name": "Joren Paxis",
+    "position": "RWF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 69,
+      "shooting": 59,
+      "passing": 57,
+      "ball_control": 63,
+      "dribbling": 65,
+      "defense": 47,
+      "physical": 56,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_021",
+    "name": "Leno Kryx",
+    "position": "LWF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 70,
+      "shooting": 60,
+      "passing": 58,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 46,
+      "physical": 55,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_022",
+    "name": "Breno Valt",
+    "position": "CF",
+    "rarity": "Standard",
+    "ovr": 65,
+    "stats": {
+      "speed": 67,
+      "shooting": 66,
+      "passing": 54,
+      "ball_control": 62,
+      "dribbling": 63,
+      "defense": 44,
+      "physical": 66,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_023",
+    "name": "Orin Malvek",
+    "position": "GK",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "gk_diving": 63,
+      "gk_reflexes": 62,
+      "gk_handling": 59,
+      "gk_positioning": 60,
+      "gk_kicking": 57,
+      "physical": 65,
+      "stamina": 53,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_024",
+    "name": "Cavin Durex",
+    "position": "CB",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 56,
+      "shooting": 41,
+      "passing": 53,
+      "ball_control": 51,
+      "dribbling": 49,
+      "defense": 65,
+      "physical": 68,
+      "stamina": 64,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_025",
+    "name": "Yaro Belix",
+    "position": "RB",
+    "rarity": "Standard",
+    "ovr": 60,
+    "stats": {
+      "speed": 62,
+      "shooting": 44,
+      "passing": 56,
+      "ball_control": 55,
+      "dribbling": 54,
+      "defense": 60,
+      "physical": 61,
+      "stamina": 66,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_026",
+    "name": "Evan Lorix",
+    "position": "LB",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "speed": 63,
+      "shooting": 45,
+      "passing": 57,
+      "ball_control": 56,
+      "dribbling": 55,
+      "defense": 61,
+      "physical": 62,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_027",
+    "name": "Talen Dorvik",
+    "position": "DMF",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 58,
+      "shooting": 50,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 57,
+      "defense": 64,
+      "physical": 65,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_028",
+    "name": "Rylan Vorix",
+    "position": "CMF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 60,
+      "shooting": 52,
+      "passing": 62,
+      "ball_control": 61,
+      "dribbling": 60,
+      "defense": 58,
+      "physical": 60,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_029",
+    "name": "Jaxen Molt",
+    "position": "AMF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 63,
+      "shooting": 61,
+      "passing": 65,
+      "ball_control": 66,
+      "dribbling": 67,
+      "defense": 52,
+      "physical": 58,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_030",
+    "name": "Kairo Bentos",
+    "position": "RWF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 70,
+      "shooting": 60,
+      "passing": 58,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 48,
+      "physical": 57,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_031",
+    "name": "Lucan Ferrox",
+    "position": "LWF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 71,
+      "shooting": 61,
+      "passing": 59,
+      "ball_control": 65,
+      "dribbling": 67,
+      "defense": 47,
+      "physical": 56,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_032",
+    "name": "Bran Kolmer",
+    "position": "CF",
+    "rarity": "Standard",
+    "ovr": 65,
+    "stats": {
+      "speed": 68,
+      "shooting": 68,
+      "passing": 55,
+      "ball_control": 63,
+      "dribbling": 64,
+      "defense": 45,
+      "physical": 65,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_033",
+    "name": "Stefan Ryze",
+    "position": "GK",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "gk_diving": 63,
+      "gk_reflexes": 62,
+      "gk_handling": 59,
+      "gk_positioning": 60,
+      "gk_kicking": 57,
+      "physical": 65,
+      "stamina": 53,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_034",
+    "name": "Oren Talvik",
+    "position": "CB",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 56,
+      "shooting": 41,
+      "passing": 53,
+      "ball_control": 51,
+      "dribbling": 49,
+      "defense": 65,
+      "physical": 68,
+      "stamina": 64,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_035",
+    "name": "Yanik Dorren",
+    "position": "RB",
+    "rarity": "Standard",
+    "ovr": 60,
+    "stats": {
+      "speed": 62,
+      "shooting": 44,
+      "passing": 56,
+      "ball_control": 55,
+      "dribbling": 54,
+      "defense": 60,
+      "physical": 61,
+      "stamina": 66,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_036",
+    "name": "Milo Kraven",
+    "position": "LB",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "speed": 63,
+      "shooting": 45,
+      "passing": 57,
+      "ball_control": 56,
+      "dribbling": 55,
+      "defense": 61,
+      "physical": 62,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_037",
+    "name": "Arven Daxor",
+    "position": "DMF",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 58,
+      "shooting": 50,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 57,
+      "defense": 64,
+      "physical": 65,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_038",
+    "name": "Felix Ronar",
+    "position": "CMF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 60,
+      "shooting": 53,
+      "passing": 63,
+      "ball_control": 62,
+      "dribbling": 60,
+      "defense": 58,
+      "physical": 60,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_039",
+    "name": "Noel Kintar",
+    "position": "AMF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 63,
+      "shooting": 61,
+      "passing": 65,
+      "ball_control": 66,
+      "dribbling": 67,
+      "defense": 52,
+      "physical": 58,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_040",
+    "name": "Sandro Lext",
+    "position": "RWF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 70,
+      "shooting": 60,
+      "passing": 58,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 48,
+      "physical": 57,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_041",
+    "name": "Ivaro Nems",
+    "position": "LWF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 71,
+      "shooting": 61,
+      "passing": 59,
+      "ball_control": 65,
+      "dribbling": 67,
+      "defense": 47,
+      "physical": 56,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_042",
+    "name": "Tomas Velro",
+    "position": "CF",
+    "rarity": "Standard",
+    "ovr": 65,
+    "stats": {
+      "speed": 68,
+      "shooting": 68,
+      "passing": 55,
+      "ball_control": 63,
+      "dribbling": 64,
+      "defense": 45,
+      "physical": 65,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_043",
+    "name": "Ruben Axto",
+    "position": "GK",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "gk_diving": 63,
+      "gk_reflexes": 62,
+      "gk_handling": 59,
+      "gk_positioning": 60,
+      "gk_kicking": 57,
+      "physical": 65,
+      "stamina": 53,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_044",
+    "name": "Jaxen Molto",
+    "position": "CB",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 56,
+      "shooting": 41,
+      "passing": 53,
+      "ball_control": 51,
+      "dribbling": 49,
+      "defense": 65,
+      "physical": 68,
+      "stamina": 64,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_045",
+    "name": "Piero Zanex",
+    "position": "RB",
+    "rarity": "Standard",
+    "ovr": 60,
+    "stats": {
+      "speed": 62,
+      "shooting": 44,
+      "passing": 56,
+      "ball_control": 55,
+      "dribbling": 54,
+      "defense": 60,
+      "physical": 61,
+      "stamina": 66,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_046",
+    "name": "Zorin Valeo",
+    "position": "LB",
+    "rarity": "Standard",
+    "ovr": 61,
+    "stats": {
+      "speed": 63,
+      "shooting": 45,
+      "passing": 57,
+      "ball_control": 56,
+      "dribbling": 55,
+      "defense": 61,
+      "physical": 62,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_047",
+    "name": "Luan Corvic",
+    "position": "DMF",
+    "rarity": "Standard",
+    "ovr": 62,
+    "stats": {
+      "speed": 58,
+      "shooting": 50,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 57,
+      "defense": 64,
+      "physical": 65,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_048",
+    "name": "Karel Mirox",
+    "position": "CMF",
+    "rarity": "Standard",
+    "ovr": 63,
+    "stats": {
+      "speed": 60,
+      "shooting": 53,
+      "passing": 63,
+      "ball_control": 62,
+      "dribbling": 60,
+      "defense": 58,
+      "physical": 60,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_049",
+    "name": "Jonis Pelto",
+    "position": "AMF",
+    "rarity": "Standard",
+    "ovr": 64,
+    "stats": {
+      "speed": 63,
+      "shooting": 61,
+      "passing": 65,
+      "ball_control": 66,
+      "dribbling": 67,
+      "defense": 52,
+      "physical": 58,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_050",
+    "name": "Ravel Dron",
+    "position": "CF",
+    "rarity": "Standard",
+    "ovr": 65,
+    "stats": {
+      "speed": 68,
+      "shooting": 68,
+      "passing": 55,
+      "ball_control": 63,
+      "dribbling": 64,
+      "defense": 45,
+      "physical": 65,
+      "stamina": 67,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_051",
+    "name": "Varko Lenth",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "gk_diving": 70,
+      "gk_reflexes": 69,
+      "gk_handling": 67,
+      "gk_positioning": 68,
+      "gk_kicking": 65,
+      "physical": 70,
+      "stamina": 60,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_052",
+    "name": "Dario Vexel",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 70,
+      "shooting": 50,
+      "passing": 62,
+      "ball_control": 61,
+      "dribbling": 63,
+      "defense": 65,
+      "physical": 64,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_053",
+    "name": "Marven Holix",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 67,
+    "stats": {
+      "speed": 60,
+      "shooting": 48,
+      "passing": 58,
+      "ball_control": 55,
+      "dribbling": 53,
+      "defense": 70,
+      "physical": 72,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_054",
+    "name": "Tavon Zirel",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 67,
+    "stats": {
+      "speed": 61,
+      "shooting": 49,
+      "passing": 59,
+      "ball_control": 56,
+      "dribbling": 54,
+      "defense": 71,
+      "physical": 73,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_055",
+    "name": "Liran Dexel",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 68,
+      "shooting": 48,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 61,
+      "defense": 65,
+      "physical": 63,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_056",
+    "name": "Nylan Corvo",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "speed": 62,
+      "shooting": 55,
+      "passing": 66,
+      "ball_control": 63,
+      "dribbling": 60,
+      "defense": 68,
+      "physical": 70,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_057",
+    "name": "Arvin Zoltek",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 64,
+      "shooting": 58,
+      "passing": 68,
+      "ball_control": 65,
+      "dribbling": 63,
+      "defense": 60,
+      "physical": 62,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_058",
+    "name": "Cairo Valtrex",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 70,
+    "stats": {
+      "speed": 66,
+      "shooting": 65,
+      "passing": 70,
+      "ball_control": 70,
+      "dribbling": 72,
+      "defense": 55,
+      "physical": 60,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_059",
+    "name": "Zeno Marvik",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 75,
+      "shooting": 65,
+      "passing": 62,
+      "ball_control": 68,
+      "dribbling": 70,
+      "defense": 50,
+      "physical": 60,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_060",
+    "name": "Elios Ravin",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 76,
+      "shooting": 66,
+      "passing": 63,
+      "ball_control": 69,
+      "dribbling": 71,
+      "defense": 49,
+      "physical": 59,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_061",
+    "name": "Kiro Vonnel",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 71,
+    "stats": {
+      "speed": 72,
+      "shooting": 72,
+      "passing": 60,
+      "ball_control": 68,
+      "dribbling": 69,
+      "defense": 47,
+      "physical": 70,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_062",
+    "name": "Raven Kolter",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "gk_diving": 70,
+      "gk_reflexes": 69,
+      "gk_handling": 67,
+      "gk_positioning": 68,
+      "gk_kicking": 65,
+      "physical": 70,
+      "stamina": 60,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_063",
+    "name": "Talon Brevik",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 67,
+    "stats": {
+      "speed": 61,
+      "shooting": 48,
+      "passing": 59,
+      "ball_control": 56,
+      "dribbling": 54,
+      "defense": 71,
+      "physical": 73,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_064",
+    "name": "Daxel Varon",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 70,
+      "shooting": 50,
+      "passing": 62,
+      "ball_control": 61,
+      "dribbling": 63,
+      "defense": 65,
+      "physical": 64,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_065",
+    "name": "Zyren Kaltor",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 68,
+      "shooting": 48,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 61,
+      "defense": 65,
+      "physical": 63,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_066",
+    "name": "Mavrix Dolven",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "speed": 62,
+      "shooting": 55,
+      "passing": 66,
+      "ball_control": 63,
+      "dribbling": 60,
+      "defense": 68,
+      "physical": 70,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_067",
+    "name": "Lior Tenrek",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 64,
+      "shooting": 58,
+      "passing": 68,
+      "ball_control": 65,
+      "dribbling": 63,
+      "defense": 60,
+      "physical": 62,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_068",
+    "name": "Kyran Velox",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 70,
+    "stats": {
+      "speed": 66,
+      "shooting": 65,
+      "passing": 70,
+      "ball_control": 70,
+      "dribbling": 72,
+      "defense": 55,
+      "physical": 60,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_069",
+    "name": "Jaren Falco",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 75,
+      "shooting": 65,
+      "passing": 62,
+      "ball_control": 68,
+      "dribbling": 70,
+      "defense": 50,
+      "physical": 60,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_070",
+    "name": "Eryx Malden",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 76,
+      "shooting": 66,
+      "passing": 63,
+      "ball_control": 69,
+      "dribbling": 71,
+      "defense": 49,
+      "physical": 59,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_071",
+    "name": "Torin Baxel",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 71,
+    "stats": {
+      "speed": 72,
+      "shooting": 72,
+      "passing": 60,
+      "ball_control": 68,
+      "dribbling": 69,
+      "defense": 47,
+      "physical": 70,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_072",
+    "name": "Nero Valtis",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "gk_diving": 70,
+      "gk_reflexes": 69,
+      "gk_handling": 67,
+      "gk_positioning": 68,
+      "gk_kicking": 65,
+      "physical": 70,
+      "stamina": 60,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_073",
+    "name": "Rylon Tarez",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 67,
+    "stats": {
+      "speed": 61,
+      "shooting": 48,
+      "passing": 59,
+      "ball_control": 56,
+      "dribbling": 54,
+      "defense": 71,
+      "physical": 73,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_074",
+    "name": "Caden Lorik",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 70,
+      "shooting": 50,
+      "passing": 62,
+      "ball_control": 61,
+      "dribbling": 63,
+      "defense": 65,
+      "physical": 64,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_075",
+    "name": "Alrik Venson",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 68,
+      "shooting": 48,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 61,
+      "defense": 65,
+      "physical": 63,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_076",
+    "name": "Davor Tenrek",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "speed": 62,
+      "shooting": 55,
+      "passing": 66,
+      "ball_control": 63,
+      "dribbling": 60,
+      "defense": 68,
+      "physical": 70,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_077",
+    "name": "Lyor Vance",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 64,
+      "shooting": 58,
+      "passing": 68,
+      "ball_control": 65,
+      "dribbling": 63,
+      "defense": 60,
+      "physical": 62,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_078",
+    "name": "Rivan Dorel",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 70,
+    "stats": {
+      "speed": 66,
+      "shooting": 65,
+      "passing": 70,
+      "ball_control": 70,
+      "dribbling": 72,
+      "defense": 55,
+      "physical": 60,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_079",
+    "name": "Zyren Malto",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 75,
+      "shooting": 65,
+      "passing": 62,
+      "ball_control": 68,
+      "dribbling": 70,
+      "defense": 50,
+      "physical": 60,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_080",
+    "name": "Eron Valdex",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 76,
+      "shooting": 66,
+      "passing": 63,
+      "ball_control": 69,
+      "dribbling": 71,
+      "defense": 49,
+      "physical": 59,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_081",
+    "name": "Torval Nix",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 71,
+    "stats": {
+      "speed": 72,
+      "shooting": 72,
+      "passing": 60,
+      "ball_control": 68,
+      "dribbling": 69,
+      "defense": 47,
+      "physical": 70,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_082",
+    "name": "Dax Venrol",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "gk_diving": 70,
+      "gk_reflexes": 69,
+      "gk_handling": 67,
+      "gk_positioning": 68,
+      "gk_kicking": 65,
+      "physical": 70,
+      "stamina": 60,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_083",
+    "name": "Korin Veylo",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 67,
+    "stats": {
+      "speed": 61,
+      "shooting": 48,
+      "passing": 59,
+      "ball_control": 56,
+      "dribbling": 54,
+      "defense": 71,
+      "physical": 73,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_084",
+    "name": "Loran Baxel",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 70,
+      "shooting": 50,
+      "passing": 62,
+      "ball_control": 61,
+      "dribbling": 63,
+      "defense": 65,
+      "physical": 64,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_085",
+    "name": "Niran Dexel",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 68,
+      "shooting": 48,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 61,
+      "defense": 65,
+      "physical": 63,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_086",
+    "name": "Talen Vorik",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "speed": 62,
+      "shooting": 55,
+      "passing": 66,
+      "ball_control": 63,
+      "dribbling": 60,
+      "defense": 68,
+      "physical": 70,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_087",
+    "name": "Javen Lorix",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 64,
+      "shooting": 58,
+      "passing": 68,
+      "ball_control": 65,
+      "dribbling": 63,
+      "defense": 60,
+      "physical": 62,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_088",
+    "name": "Rylan Dorvek",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 70,
+    "stats": {
+      "speed": 66,
+      "shooting": 65,
+      "passing": 70,
+      "ball_control": 70,
+      "dribbling": 72,
+      "defense": 55,
+      "physical": 60,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_089",
+    "name": "Kiran Valtor",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 75,
+      "shooting": 65,
+      "passing": 62,
+      "ball_control": 68,
+      "dribbling": 70,
+      "defense": 50,
+      "physical": 60,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_090",
+    "name": "Soren Malvik",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 69,
+    "stats": {
+      "speed": 76,
+      "shooting": 66,
+      "passing": 63,
+      "ball_control": 69,
+      "dribbling": 71,
+      "defense": 49,
+      "physical": 59,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_091",
+    "name": "Daven Korvik",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 71,
+    "stats": {
+      "speed": 72,
+      "shooting": 72,
+      "passing": 60,
+      "ball_control": 68,
+      "dribbling": 69,
+      "defense": 47,
+      "physical": 70,
+      "stamina": 71,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_092",
+    "name": "Eryx Falden",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 68,
+    "stats": {
+      "gk_diving": 70,
+      "gk_reflexes": 69,
+      "gk_handling": 67,
+      "gk_positioning": 68,
+      "gk_kicking": 65,
+      "physical": 70,
+      "stamina": 60,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_093",
+    "name": "Talen Ruvik",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 67,
+    "stats": {
+      "speed": 61,
+      "shooting": 48,
+      "passing": 59,
+      "ball_control": 56,
+      "dribbling": 54,
+      "defense": 71,
+      "physical": 73,
+      "stamina": 69,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_094",
+    "name": "Liron Vaxel",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 70,
+      "shooting": 50,
+      "passing": 62,
+      "ball_control": 61,
+      "dribbling": 63,
+      "defense": 65,
+      "physical": 64,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_095",
+    "name": "Kiro Malven",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 66,
+    "stats": {
+      "speed": 68,
+      "shooting": 48,
+      "passing": 60,
+      "ball_control": 59,
+      "dribbling": 61,
+      "defense": 65,
+      "physical": 63,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_096",
+    "name": "Veyron Kaltas",
+    "position": "GK",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "gk_diving": 75,
+      "gk_reflexes": 74,
+      "gk_handling": 72,
+      "gk_positioning": 73,
+      "gk_kicking": 70,
+      "physical": 75,
+      "stamina": 65,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_097",
+    "name": "Daxen Vorik",
+    "position": "RB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 76,
+      "shooting": 58,
+      "passing": 66,
+      "ball_control": 65,
+      "dribbling": 67,
+      "defense": 71,
+      "physical": 69,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_098",
+    "name": "Toren Valdex",
+    "position": "CB",
+    "rarity": "Epic",
+    "ovr": 72,
+    "stats": {
+      "speed": 63,
+      "shooting": 52,
+      "passing": 62,
+      "ball_control": 59,
+      "dribbling": 57,
+      "defense": 76,
+      "physical": 78,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_099",
+    "name": "Liron Dexel",
+    "position": "CB",
+    "rarity": "Epic",
+    "ovr": 72,
+    "stats": {
+      "speed": 64,
+      "shooting": 53,
+      "passing": 63,
+      "ball_control": 60,
+      "dribbling": 58,
+      "defense": 77,
+      "physical": 79,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_100",
+    "name": "Ravik Molten",
+    "position": "LB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 74,
+      "shooting": 55,
+      "passing": 65,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 71,
+      "physical": 68,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_101",
+    "name": "Cayron Dexis",
+    "position": "DMF",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "speed": 66,
+      "shooting": 60,
+      "passing": 70,
+      "ball_control": 68,
+      "dribbling": 65,
+      "defense": 74,
+      "physical": 75,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_102",
+    "name": "Kiron Valtor",
+    "position": "CMF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 68,
+      "shooting": 63,
+      "passing": 72,
+      "ball_control": 70,
+      "dribbling": 68,
+      "defense": 63,
+      "physical": 65,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_103",
+    "name": "Tavon Krex",
+    "position": "AMF",
+    "rarity": "Epic",
+    "ovr": 75,
+    "stats": {
+      "speed": 70,
+      "shooting": 70,
+      "passing": 75,
+      "ball_control": 74,
+      "dribbling": 76,
+      "defense": 58,
+      "physical": 64,
+      "stamina": 75,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_104",
+    "name": "Zyren Valtrex",
+    "position": "RWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 80,
+      "shooting": 70,
+      "passing": 66,
+      "ball_control": 72,
+      "dribbling": 74,
+      "defense": 53,
+      "physical": 63,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_105",
+    "name": "Eryx Falden",
+    "position": "LWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 81,
+      "shooting": 71,
+      "passing": 67,
+      "ball_control": 73,
+      "dribbling": 75,
+      "defense": 52,
+      "physical": 62,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_106",
+    "name": "Torik Malven",
+    "position": "CF",
+    "rarity": "Epic",
+    "ovr": 76,
+    "stats": {
+      "speed": 78,
+      "shooting": 78,
+      "passing": 64,
+      "ball_control": 72,
+      "dribbling": 73,
+      "defense": 50,
+      "physical": 75,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_107",
+    "name": "Ravik Norel",
+    "position": "GK",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "gk_diving": 75,
+      "gk_reflexes": 74,
+      "gk_handling": 72,
+      "gk_positioning": 73,
+      "gk_kicking": 70,
+      "physical": 75,
+      "stamina": 65,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_108",
+    "name": "Darian Velox",
+    "position": "CB",
+    "rarity": "Epic",
+    "ovr": 72,
+    "stats": {
+      "speed": 64,
+      "shooting": 53,
+      "passing": 63,
+      "ball_control": 60,
+      "dribbling": 58,
+      "defense": 77,
+      "physical": 79,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_109",
+    "name": "Milo Tarez",
+    "position": "RB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 76,
+      "shooting": 58,
+      "passing": 66,
+      "ball_control": 65,
+      "dribbling": 67,
+      "defense": 71,
+      "physical": 69,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_110",
+    "name": "Loren Baxel",
+    "position": "LB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 74,
+      "shooting": 55,
+      "passing": 65,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 71,
+      "physical": 68,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_111",
+    "name": "Rylon Vorik",
+    "position": "DMF",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "speed": 66,
+      "shooting": 60,
+      "passing": 70,
+      "ball_control": 68,
+      "dribbling": 65,
+      "defense": 74,
+      "physical": 75,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_112",
+    "name": "Caylen Molt",
+    "position": "CMF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 68,
+      "shooting": 63,
+      "passing": 72,
+      "ball_control": 70,
+      "dribbling": 68,
+      "defense": 63,
+      "physical": 65,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_113",
+    "name": "Zylen Vorn",
+    "position": "AMF",
+    "rarity": "Epic",
+    "ovr": 75,
+    "stats": {
+      "speed": 70,
+      "shooting": 70,
+      "passing": 75,
+      "ball_control": 74,
+      "dribbling": 76,
+      "defense": 58,
+      "physical": 64,
+      "stamina": 75,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_114",
+    "name": "Talon Krex",
+    "position": "RWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 80,
+      "shooting": 70,
+      "passing": 66,
+      "ball_control": 72,
+      "dribbling": 74,
+      "defense": 53,
+      "physical": 63,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_115",
+    "name": "Eron Malvek",
+    "position": "LWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 81,
+      "shooting": 71,
+      "passing": 67,
+      "ball_control": 73,
+      "dribbling": 75,
+      "defense": 52,
+      "physical": 62,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_116",
+    "name": "Kiran Dovek",
+    "position": "CF",
+    "rarity": "Epic",
+    "ovr": 76,
+    "stats": {
+      "speed": 78,
+      "shooting": 78,
+      "passing": 64,
+      "ball_control": 72,
+      "dribbling": 73,
+      "defense": 50,
+      "physical": 75,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_117",
+    "name": "Rivon Velix",
+    "position": "GK",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "gk_diving": 75,
+      "gk_reflexes": 74,
+      "gk_handling": 72,
+      "gk_positioning": 73,
+      "gk_kicking": 70,
+      "physical": 75,
+      "stamina": 65,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_118",
+    "name": "Daven Talrik",
+    "position": "CB",
+    "rarity": "Epic",
+    "ovr": 72,
+    "stats": {
+      "speed": 64,
+      "shooting": 53,
+      "passing": 63,
+      "ball_control": 60,
+      "dribbling": 58,
+      "defense": 77,
+      "physical": 79,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_119",
+    "name": "Lirax Vornel",
+    "position": "RB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 76,
+      "shooting": 58,
+      "passing": 66,
+      "ball_control": 65,
+      "dribbling": 67,
+      "defense": 71,
+      "physical": 69,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_120",
+    "name": "Toren Daxel",
+    "position": "LB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 74,
+      "shooting": 55,
+      "passing": 65,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 71,
+      "physical": 68,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_121",
+    "name": "Arvin Moltek",
+    "position": "DMF",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "speed": 66,
+      "shooting": 60,
+      "passing": 70,
+      "ball_control": 68,
+      "dribbling": 65,
+      "defense": 74,
+      "physical": 75,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_122",
+    "name": "Caylen Valtor",
+    "position": "CMF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 68,
+      "shooting": 63,
+      "passing": 72,
+      "ball_control": 70,
+      "dribbling": 68,
+      "defense": 63,
+      "physical": 65,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_123",
+    "name": "Zyren Velox",
+    "position": "AMF",
+    "rarity": "Epic",
+    "ovr": 75,
+    "stats": {
+      "speed": 70,
+      "shooting": 70,
+      "passing": 75,
+      "ball_control": 74,
+      "dribbling": 76,
+      "defense": 58,
+      "physical": 64,
+      "stamina": 75,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_124",
+    "name": "Torik Veyro",
+    "position": "RWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 80,
+      "shooting": 70,
+      "passing": 66,
+      "ball_control": 72,
+      "dribbling": 74,
+      "defense": 53,
+      "physical": 63,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_125",
+    "name": "Eryx Falden",
+    "position": "LWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 81,
+      "shooting": 71,
+      "passing": 67,
+      "ball_control": 73,
+      "dribbling": 75,
+      "defense": 52,
+      "physical": 62,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_126",
+    "name": "Loran Krex",
+    "position": "CF",
+    "rarity": "Epic",
+    "ovr": 76,
+    "stats": {
+      "speed": 78,
+      "shooting": 78,
+      "passing": 64,
+      "ball_control": 72,
+      "dribbling": 73,
+      "defense": 50,
+      "physical": 75,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_127",
+    "name": "Riven Talon",
+    "position": "GK",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "gk_diving": 75,
+      "gk_reflexes": 74,
+      "gk_handling": 72,
+      "gk_positioning": 73,
+      "gk_kicking": 70,
+      "physical": 75,
+      "stamina": 65,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_128",
+    "name": "Daxel Vorin",
+    "position": "CB",
+    "rarity": "Epic",
+    "ovr": 72,
+    "stats": {
+      "speed": 64,
+      "shooting": 53,
+      "passing": 63,
+      "ball_control": 60,
+      "dribbling": 58,
+      "defense": 77,
+      "physical": 79,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_129",
+    "name": "Cairon Velrik",
+    "position": "RB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 76,
+      "shooting": 58,
+      "passing": 66,
+      "ball_control": 65,
+      "dribbling": 67,
+      "defense": 71,
+      "physical": 69,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_130",
+    "name": "Lyron Maltek",
+    "position": "LB",
+    "rarity": "Epic",
+    "ovr": 71,
+    "stats": {
+      "speed": 74,
+      "shooting": 55,
+      "passing": 65,
+      "ball_control": 64,
+      "dribbling": 66,
+      "defense": 71,
+      "physical": 68,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_131",
+    "name": "Torven Daxor",
+    "position": "DMF",
+    "rarity": "Epic",
+    "ovr": 73,
+    "stats": {
+      "speed": 66,
+      "shooting": 60,
+      "passing": 70,
+      "ball_control": 68,
+      "dribbling": 65,
+      "defense": 74,
+      "physical": 75,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_132",
+    "name": "Zyron Velik",
+    "position": "CMF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 68,
+      "shooting": 63,
+      "passing": 72,
+      "ball_control": 70,
+      "dribbling": 68,
+      "defense": 63,
+      "physical": 65,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_133",
+    "name": "Kiron Vaxel",
+    "position": "AMF",
+    "rarity": "Epic",
+    "ovr": 75,
+    "stats": {
+      "speed": 70,
+      "shooting": 70,
+      "passing": 75,
+      "ball_control": 74,
+      "dribbling": 76,
+      "defense": 58,
+      "physical": 64,
+      "stamina": 75,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_134",
+    "name": "Eron Valdex",
+    "position": "RWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 80,
+      "shooting": 70,
+      "passing": 66,
+      "ball_control": 72,
+      "dribbling": 74,
+      "defense": 53,
+      "physical": 63,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_135",
+    "name": "Tavon Malrix",
+    "position": "LWF",
+    "rarity": "Epic",
+    "ovr": 74,
+    "stats": {
+      "speed": 81,
+      "shooting": 71,
+      "passing": 67,
+      "ball_control": 73,
+      "dribbling": 75,
+      "defense": 52,
+      "physical": 62,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_136",
+    "name": "Remy Storm",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 80,
+    "stats": {
+      "shooting": 71,
+      "passing": 80,
+      "dribbling": 76,
+      "ball_control": 76,
+      "defense": 64,
+      "speed": 76,
+      "physical": 73,
+      "stamina": 87,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_137",
+    "name": "Phoenix Sterling",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 79,
+    "stats": {
+      "shooting": 73,
+      "passing": 83,
+      "dribbling": 77,
+      "ball_control": 76,
+      "defense": 70,
+      "speed": 72,
+      "physical": 77,
+      "stamina": 89,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_138",
+    "name": "Titan Stone",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 81,
+    "stats": {
+      "shooting": 82,
+      "passing": 70,
+      "dribbling": 76,
+      "ball_control": 78,
+      "defense": 50,
+      "speed": 85,
+      "physical": 79,
+      "stamina": 81,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_139",
+    "name": "Rocco Drake",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 77,
+    "stats": {
+      "shooting": 81,
+      "passing": 75,
+      "dribbling": 81,
+      "ball_control": 72,
+      "defense": 51,
+      "speed": 78,
+      "physical": 71,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_140",
+    "name": "Neo Gage",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 77,
+    "stats": {
+      "shooting": 81,
+      "passing": 74,
+      "dribbling": 78,
+      "ball_control": 76,
+      "defense": 64,
+      "speed": 84,
+      "physical": 70,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_141",
+    "name": "Atlas Mace",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 83,
+    "stats": {
+      "shooting": 84,
+      "passing": 78,
+      "dribbling": 82,
+      "ball_control": 80,
+      "defense": 58,
+      "speed": 84,
+      "physical": 76,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_142",
+    "name": "Nova Duke",
+    "position": "SS",
+    "rarity": "Rare",
+    "ovr": 82,
+    "stats": {
+      "shooting": 87,
+      "passing": 79,
+      "dribbling": 82,
+      "ball_control": 77,
+      "defense": 62,
+      "speed": 77,
+      "physical": 80,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_143",
+    "name": "Titan Stark",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 80,
+    "stats": {
+      "shooting": 47,
+      "passing": 52,
+      "dribbling": 31,
+      "ball_control": 57,
+      "defense": 50,
+      "speed": 71,
+      "physical": 75,
+      "stamina": 70,
+      "gk_reflexes": 77,
+      "gk_handling": 71,
+      "gk_diving": 80,
+      "gk_positioning": 73,
+      "gk_kicking": 80
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_144",
+    "name": "Neo Rook",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 70,
+      "passing": 73,
+      "dribbling": 73,
+      "ball_control": 78,
+      "defense": 89,
+      "speed": 79,
+      "physical": 77,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_145",
+    "name": "Jace Voss",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 65,
+      "passing": 74,
+      "dribbling": 80,
+      "ball_control": 77,
+      "defense": 87,
+      "speed": 70,
+      "physical": 78,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_146",
+    "name": "Pax Vane",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 82,
+    "stats": {
+      "shooting": 66,
+      "passing": 74,
+      "dribbling": 71,
+      "ball_control": 75,
+      "defense": 84,
+      "speed": 76,
+      "physical": 85,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_147",
+    "name": "Pax Wilder",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 83,
+    "stats": {
+      "shooting": 75,
+      "passing": 82,
+      "dribbling": 75,
+      "ball_control": 78,
+      "defense": 64,
+      "speed": 80,
+      "physical": 79,
+      "stamina": 87,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_148",
+    "name": "River Duke",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 83,
+    "stats": {
+      "shooting": 70,
+      "passing": 85,
+      "dribbling": 72,
+      "ball_control": 72,
+      "defense": 73,
+      "speed": 77,
+      "physical": 70,
+      "stamina": 86,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_149",
+    "name": "Daxton Vane",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 75,
+    "stats": {
+      "shooting": 82,
+      "passing": 70,
+      "dribbling": 85,
+      "ball_control": 78,
+      "defense": 60,
+      "speed": 84,
+      "physical": 72,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_150",
+    "name": "Axel Hawk",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 77,
+    "stats": {
+      "shooting": 85,
+      "passing": 79,
+      "dribbling": 75,
+      "ball_control": 79,
+      "defense": 64,
+      "speed": 82,
+      "physical": 75,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_151",
+    "name": "Kael Frost",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 77,
+    "stats": {
+      "shooting": 87,
+      "passing": 72,
+      "dribbling": 80,
+      "ball_control": 72,
+      "defense": 54,
+      "speed": 75,
+      "physical": 78,
+      "stamina": 75,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_152",
+    "name": "Cade Knight",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 79,
+    "stats": {
+      "shooting": 90,
+      "passing": 77,
+      "dribbling": 84,
+      "ball_control": 77,
+      "defense": 60,
+      "speed": 80,
+      "physical": 71,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_153",
+    "name": "Enzo Volt",
+    "position": "SS",
+    "rarity": "Rare",
+    "ovr": 75,
+    "stats": {
+      "shooting": 88,
+      "passing": 72,
+      "dribbling": 83,
+      "ball_control": 79,
+      "defense": 65,
+      "speed": 83,
+      "physical": 78,
+      "stamina": 83,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_154",
+    "name": "Zade Frost",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 38,
+      "passing": 62,
+      "dribbling": 44,
+      "ball_control": 58,
+      "defense": 41,
+      "speed": 80,
+      "physical": 79,
+      "stamina": 79,
+      "gk_reflexes": 71,
+      "gk_handling": 73,
+      "gk_diving": 73,
+      "gk_positioning": 79,
+      "gk_kicking": 71
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_155",
+    "name": "Nova Sterling",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 79,
+    "stats": {
+      "shooting": 62,
+      "passing": 80,
+      "dribbling": 75,
+      "ball_control": 70,
+      "defense": 90,
+      "speed": 76,
+      "physical": 79,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_156",
+    "name": "Knox Steel",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 82,
+    "stats": {
+      "shooting": 66,
+      "passing": 79,
+      "dribbling": 71,
+      "ball_control": 75,
+      "defense": 87,
+      "speed": 74,
+      "physical": 75,
+      "stamina": 73,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_157",
+    "name": "River Thorne",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 75,
+    "stats": {
+      "shooting": 66,
+      "passing": 72,
+      "dribbling": 72,
+      "ball_control": 80,
+      "defense": 86,
+      "speed": 70,
+      "physical": 81,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_158",
+    "name": "Jaxon Banks",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 76,
+    "stats": {
+      "shooting": 72,
+      "passing": 85,
+      "dribbling": 70,
+      "ball_control": 73,
+      "defense": 66,
+      "speed": 80,
+      "physical": 75,
+      "stamina": 81,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_159",
+    "name": "River Wilder",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 75,
+    "stats": {
+      "shooting": 80,
+      "passing": 84,
+      "dribbling": 75,
+      "ball_control": 80,
+      "defense": 62,
+      "speed": 71,
+      "physical": 71,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_160",
+    "name": "Pax Rook",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 82,
+    "stats": {
+      "shooting": 88,
+      "passing": 80,
+      "dribbling": 77,
+      "ball_control": 76,
+      "defense": 62,
+      "speed": 85,
+      "physical": 80,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_161",
+    "name": "Atlas Storm",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 81,
+    "stats": {
+      "shooting": 80,
+      "passing": 71,
+      "dribbling": 77,
+      "ball_control": 73,
+      "defense": 56,
+      "speed": 76,
+      "physical": 71,
+      "stamina": 83,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_162",
+    "name": "Axel Rook",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 80,
+    "stats": {
+      "shooting": 86,
+      "passing": 71,
+      "dribbling": 75,
+      "ball_control": 75,
+      "defense": 63,
+      "speed": 84,
+      "physical": 72,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_163",
+    "name": "Zion Drax",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 83,
+    "stats": {
+      "shooting": 84,
+      "passing": 76,
+      "dribbling": 76,
+      "ball_control": 71,
+      "defense": 65,
+      "speed": 82,
+      "physical": 80,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_164",
+    "name": "Pax Gage",
+    "position": "SS",
+    "rarity": "Rare",
+    "ovr": 78,
+    "stats": {
+      "shooting": 86,
+      "passing": 77,
+      "dribbling": 75,
+      "ball_control": 78,
+      "defense": 65,
+      "speed": 80,
+      "physical": 73,
+      "stamina": 76,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_165",
+    "name": "Zade Baron",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 50,
+      "passing": 61,
+      "dribbling": 33,
+      "ball_control": 55,
+      "defense": 58,
+      "speed": 72,
+      "physical": 73,
+      "stamina": 75,
+      "gk_reflexes": 76,
+      "gk_handling": 76,
+      "gk_diving": 70,
+      "gk_positioning": 77,
+      "gk_kicking": 75
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_166",
+    "name": "Axel Banks",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 60,
+      "passing": 76,
+      "dribbling": 77,
+      "ball_control": 78,
+      "defense": 86,
+      "speed": 76,
+      "physical": 84,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_167",
+    "name": "Dante Drake",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 62,
+      "passing": 77,
+      "dribbling": 76,
+      "ball_control": 73,
+      "defense": 87,
+      "speed": 75,
+      "physical": 81,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_168",
+    "name": "Pax Rane",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 78,
+    "stats": {
+      "shooting": 69,
+      "passing": 77,
+      "dribbling": 73,
+      "ball_control": 78,
+      "defense": 89,
+      "speed": 76,
+      "physical": 77,
+      "stamina": 72,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_169",
+    "name": "Titan Vane",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 80,
+    "stats": {
+      "shooting": 78,
+      "passing": 84,
+      "dribbling": 78,
+      "ball_control": 70,
+      "defense": 71,
+      "speed": 78,
+      "physical": 78,
+      "stamina": 86,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_170",
+    "name": "Daxton Voss",
+    "position": "CMF",
+    "rarity": "Rare",
+    "ovr": 78,
+    "stats": {
+      "shooting": 80,
+      "passing": 81,
+      "dribbling": 77,
+      "ball_control": 79,
+      "defense": 62,
+      "speed": 77,
+      "physical": 72,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_171",
+    "name": "Viggo Wilder",
+    "position": "AMF",
+    "rarity": "Rare",
+    "ovr": 76,
+    "stats": {
+      "shooting": 90,
+      "passing": 80,
+      "dribbling": 84,
+      "ball_control": 80,
+      "defense": 54,
+      "speed": 78,
+      "physical": 76,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_172",
+    "name": "Zane Frost",
+    "position": "LWF",
+    "rarity": "Rare",
+    "ovr": 79,
+    "stats": {
+      "shooting": 87,
+      "passing": 77,
+      "dribbling": 83,
+      "ball_control": 77,
+      "defense": 52,
+      "speed": 82,
+      "physical": 73,
+      "stamina": 74,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_173",
+    "name": "Axel Steel",
+    "position": "RWF",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 83,
+      "passing": 77,
+      "dribbling": 84,
+      "ball_control": 72,
+      "defense": 50,
+      "speed": 81,
+      "physical": 79,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_174",
+    "name": "Kian Mercer",
+    "position": "CF",
+    "rarity": "Rare",
+    "ovr": 84,
+    "stats": {
+      "shooting": 82,
+      "passing": 77,
+      "dribbling": 85,
+      "ball_control": 77,
+      "defense": 57,
+      "speed": 85,
+      "physical": 77,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_175",
+    "name": "Enzo Stark",
+    "position": "SS",
+    "rarity": "Rare",
+    "ovr": 83,
+    "stats": {
+      "shooting": 80,
+      "passing": 71,
+      "dribbling": 82,
+      "ball_control": 76,
+      "defense": 63,
+      "speed": 84,
+      "physical": 73,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_176",
+    "name": "Nova Wolf",
+    "position": "GK",
+    "rarity": "Rare",
+    "ovr": 78,
+    "stats": {
+      "shooting": 42,
+      "passing": 68,
+      "dribbling": 43,
+      "ball_control": 45,
+      "defense": 44,
+      "speed": 72,
+      "physical": 75,
+      "stamina": 73,
+      "gk_reflexes": 70,
+      "gk_handling": 71,
+      "gk_diving": 74,
+      "gk_positioning": 76,
+      "gk_kicking": 80
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_177",
+    "name": "Zane Vane",
+    "position": "CB",
+    "rarity": "Rare",
+    "ovr": 83,
+    "stats": {
+      "shooting": 65,
+      "passing": 76,
+      "dribbling": 71,
+      "ball_control": 79,
+      "defense": 87,
+      "speed": 77,
+      "physical": 77,
+      "stamina": 70,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_178",
+    "name": "Axel Banks",
+    "position": "LB",
+    "rarity": "Rare",
+    "ovr": 75,
+    "stats": {
+      "shooting": 65,
+      "passing": 78,
+      "dribbling": 80,
+      "ball_control": 75,
+      "defense": 87,
+      "speed": 76,
+      "physical": 77,
+      "stamina": 78,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_179",
+    "name": "Pax Volt",
+    "position": "RB",
+    "rarity": "Rare",
+    "ovr": 82,
+    "stats": {
+      "shooting": 66,
+      "passing": 78,
+      "dribbling": 70,
+      "ball_control": 71,
+      "defense": 86,
+      "speed": 72,
+      "physical": 78,
+      "stamina": 77,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_180",
+    "name": "Knox Stone",
+    "position": "DMF",
+    "rarity": "Rare",
+    "ovr": 77,
+    "stats": {
+      "shooting": 70,
+      "passing": 84,
+      "dribbling": 77,
+      "ball_control": 78,
+      "defense": 63,
+      "speed": 72,
+      "physical": 71,
+      "stamina": 87,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_181",
+    "name": "Maddox Drax",
+    "position": "CMF",
+    "rarity": "Epic",
+    "ovr": 86,
+    "stats": {
+      "shooting": 85,
+      "passing": 90,
+      "dribbling": 82,
+      "ball_control": 80,
+      "defense": 76,
+      "speed": 81,
+      "physical": 88,
+      "stamina": 90,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_182",
+    "name": "Zane Voss",
+    "position": "AMF",
+    "rarity": "Epic",
+    "ovr": 86,
+    "stats": {
+      "shooting": 93,
+      "passing": 87,
+      "dribbling": 94,
+      "ball_control": 90,
+      "defense": 63,
+      "speed": 88,
+      "physical": 89,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_183",
+    "name": "Jace Knight",
+    "position": "LWF",
+    "rarity": "Epic",
+    "ovr": 85,
+    "stats": {
+      "shooting": 94,
+      "passing": 84,
+      "dribbling": 85,
+      "ball_control": 83,
+      "defense": 63,
+      "speed": 89,
+      "physical": 89,
+      "stamina": 84,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_184",
+    "name": "Atlas Volt",
+    "position": "RWF",
+    "rarity": "Epic",
+    "ovr": 93,
+    "stats": {
+      "shooting": 92,
+      "passing": 89,
+      "dribbling": 86,
+      "ball_control": 90,
+      "defense": 60,
+      "speed": 91,
+      "physical": 87,
+      "stamina": 89,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_185",
+    "name": "Viggo Drax",
+    "position": "CF",
+    "rarity": "Epic",
+    "ovr": 88,
+    "stats": {
+      "shooting": 97,
+      "passing": 84,
+      "dribbling": 93,
+      "ball_control": 80,
+      "defense": 63,
+      "speed": 94,
+      "physical": 89,
+      "stamina": 94,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_186",
+    "name": "River Banks",
+    "position": "SS",
+    "rarity": "Epic",
+    "ovr": 90,
+    "stats": {
+      "shooting": 99,
+      "passing": 86,
+      "dribbling": 86,
+      "ball_control": 89,
+      "defense": 75,
+      "speed": 91,
+      "physical": 88,
+      "stamina": 87,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_187",
+    "name": "Rocco Knight",
+    "position": "GK",
+    "rarity": "Epic",
+    "ovr": 91,
+    "stats": {
+      "shooting": 50,
+      "passing": 52,
+      "dribbling": 44,
+      "ball_control": 57,
+      "defense": 51,
+      "speed": 88,
+      "physical": 87,
+      "stamina": 86,
+      "gk_reflexes": 87,
+      "gk_handling": 84,
+      "gk_diving": 87,
+      "gk_positioning": 83,
+      "gk_kicking": 81
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_188",
+    "name": "Viggo Steel",
+    "position": "CB",
+    "rarity": "Epic",
+    "ovr": 91,
+    "stats": {
+      "shooting": 71,
+      "passing": 84,
+      "dribbling": 80,
+      "ball_control": 80,
+      "defense": 91,
+      "speed": 88,
+      "physical": 94,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_189",
+    "name": "Zane Wolf",
+    "position": "LB",
+    "rarity": "Epic",
+    "ovr": 88,
+    "stats": {
+      "shooting": 70,
+      "passing": 86,
+      "dribbling": 82,
+      "ball_control": 87,
+      "defense": 99,
+      "speed": 89,
+      "physical": 92,
+      "stamina": 91,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_190",
+    "name": "Kael Drax",
+    "position": "RB",
+    "rarity": "Epic",
+    "ovr": 88,
+    "stats": {
+      "shooting": 76,
+      "passing": 85,
+      "dribbling": 89,
+      "ball_control": 83,
+      "defense": 99,
+      "speed": 83,
+      "physical": 94,
+      "stamina": 93,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_191",
+    "name": "Nash Power",
+    "position": "DMF",
+    "rarity": "Epic",
+    "ovr": 87,
+    "stats": {
+      "shooting": 86,
+      "passing": 91,
+      "dribbling": 89,
+      "ball_control": 82,
+      "defense": 72,
+      "speed": 88,
+      "physical": 87,
+      "stamina": 96,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_192",
+    "name": "Phoenix Rook",
+    "position": "CMF",
+    "rarity": "Epic",
+    "ovr": 93,
+    "stats": {
+      "shooting": 90,
+      "passing": 92,
+      "dribbling": 82,
+      "ball_control": 82,
+      "defense": 76,
+      "speed": 86,
+      "physical": 83,
+      "stamina": 98,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_193",
+    "name": "Enzo Power",
+    "position": "AMF",
+    "rarity": "Epic",
+    "ovr": 86,
+    "stats": {
+      "shooting": 93,
+      "passing": 84,
+      "dribbling": 85,
+      "ball_control": 83,
+      "defense": 71,
+      "speed": 89,
+      "physical": 82,
+      "stamina": 86,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_194",
+    "name": "Cade Stone",
+    "position": "LWF",
+    "rarity": "Epic",
+    "ovr": 85,
+    "stats": {
+      "shooting": 90,
+      "passing": 86,
+      "dribbling": 89,
+      "ball_control": 81,
+      "defense": 72,
+      "speed": 88,
+      "physical": 80,
+      "stamina": 88,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_195",
+    "name": "Nova Mercer",
+    "position": "RWF",
+    "rarity": "Epic",
+    "ovr": 92,
+    "stats": {
+      "shooting": 96,
+      "passing": 85,
+      "dribbling": 86,
+      "ball_control": 82,
+      "defense": 74,
+      "speed": 89,
+      "physical": 81,
+      "stamina": 84,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_196",
+    "name": "Nash Sterling",
+    "position": "CF",
+    "rarity": "Epic",
+    "ovr": 86,
+    "stats": {
+      "shooting": 100,
+      "passing": 84,
+      "dribbling": 85,
+      "ball_control": 88,
+      "defense": 63,
+      "speed": 95,
+      "physical": 81,
+      "stamina": 91,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_197",
+    "name": "Nova Stone",
+    "position": "SS",
+    "rarity": "Epic",
+    "ovr": 93,
+    "stats": {
+      "shooting": 93,
+      "passing": 90,
+      "dribbling": 89,
+      "ball_control": 89,
+      "defense": 66,
+      "speed": 93,
+      "physical": 83,
+      "stamina": 95,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_198",
+    "name": "Dante Steel",
+    "position": "GK",
+    "rarity": "Epic",
+    "ovr": 91,
+    "stats": {
+      "shooting": 34,
+      "passing": 56,
+      "dribbling": 34,
+      "ball_control": 42,
+      "defense": 48,
+      "speed": 81,
+      "physical": 86,
+      "stamina": 89,
+      "gk_reflexes": 89,
+      "gk_handling": 84,
+      "gk_diving": 80,
+      "gk_positioning": 87,
+      "gk_kicking": 82
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_199",
+    "name": "Kai Mace",
+    "position": "CB",
+    "rarity": "Epic",
+    "ovr": 92,
+    "stats": {
+      "shooting": 72,
+      "passing": 89,
+      "dribbling": 81,
+      "ball_control": 82,
+      "defense": 97,
+      "speed": 86,
+      "physical": 86,
+      "stamina": 83,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_200",
+    "name": "Knox Frost",
+    "position": "LB",
+    "rarity": "Epic",
+    "ovr": 92,
+    "stats": {
+      "shooting": 71,
+      "passing": 86,
+      "dribbling": 90,
+      "ball_control": 89,
+      "defense": 98,
+      "speed": 85,
+      "physical": 88,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_201",
+    "name": "NOR GT",
+    "position": "CF",
+    "rarity": "Premium Legend",
+    "ovr": 150,
+    "stats": {
+      "speed": 98,
+      "shooting": 98,
+      "passing": 92,
+      "ball_control": 96,
+      "dribbling": 97,
+      "defense": 65,
+      "physical": 95,
+      "stamina": 98,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_202",
+    "name": "NEBU DBX",
+    "position": "AMF",
+    "rarity": "Premium Legend",
+    "ovr": 150,
+    "stats": {
+      "speed": 97,
+      "shooting": 96,
+      "passing": 98,
+      "ball_control": 97,
+      "dribbling": 96,
+      "defense": 68,
+      "physical": 92,
+      "stamina": 97,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_203",
+    "name": "SREE HARII",
+    "position": "GK",
+    "rarity": "Premium Legend",
+    "ovr": 150,
+    "stats": {
+      "gk_diving": 98,
+      "gk_reflexes": 97,
+      "gk_handling": 96,
+      "gk_positioning": 95,
+      "gk_kicking": 94,
+      "physical": 92,
+      "stamina": 97,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_204",
+    "name": "Massi Rondo",
+    "position": "RWF",
+    "rarity": "Premium",
+    "ovr": 144,
+    "stats": {
+      "speed": 96,
+      "shooting": 90,
+      "passing": 88,
+      "ball_control": 92,
+      "dribbling": 94,
+      "defense": 65,
+      "physical": 90,
+      "stamina": 93,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_205",
+    "name": "Ranoldo Vexel",
+    "position": "CF",
+    "rarity": "Premium",
+    "ovr": 143,
+    "stats": {
+      "speed": 95,
+      "shooting": 91,
+      "passing": 85,
+      "ball_control": 91,
+      "dribbling": 93,
+      "defense": 63,
+      "physical": 89,
+      "stamina": 92,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_206",
+    "name": "Nayamer Dexel",
+    "position": "LWF",
+    "rarity": "Premium",
+    "ovr": 142,
+    "stats": {
+      "speed": 97,
+      "shooting": 88,
+      "passing": 84,
+      "ball_control": 90,
+      "dribbling": 92,
+      "defense": 60,
+      "physical": 88,
+      "stamina": 91,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_207",
+    "name": "Mbabepe Lorik",
+    "position": "CF",
+    "rarity": "Premium",
+    "ovr": 141,
+    "stats": {
+      "speed": 96,
+      "shooting": 89,
+      "passing": 83,
+      "ball_control": 91,
+      "dribbling": 93,
+      "defense": 61,
+      "physical": 87,
+      "stamina": 90,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_208",
+    "name": "Albie Tolen",
+    "position": "AMF",
+    "rarity": "Premium",
+    "ovr": 140,
+    "stats": {
+      "speed": 92,
+      "shooting": 85,
+      "passing": 89,
+      "ball_control": 90,
+      "dribbling": 88,
+      "defense": 66,
+      "physical": 85,
+      "stamina": 88,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_209",
+    "name": "Joshwel Rocay",
+    "position": "CMF",
+    "rarity": "Premium",
+    "ovr": 139,
+    "stats": {
+      "speed": 91,
+      "shooting": 83,
+      "passing": 88,
+      "ball_control": 89,
+      "dribbling": 87,
+      "defense": 68,
+      "physical": 84,
+      "stamina": 87,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_210",
+    "name": "Yadhubub Lorvik",
+    "position": "DMF",
+    "rarity": "Premium",
+    "ovr": 138,
+    "stats": {
+      "speed": 88,
+      "shooting": 80,
+      "passing": 87,
+      "ball_control": 86,
+      "dribbling": 85,
+      "defense": 82,
+      "physical": 83,
+      "stamina": 88,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_211",
+    "name": "Tavrix Molven",
+    "position": "CB",
+    "rarity": "Premium",
+    "ovr": 137,
+    "stats": {
+      "speed": 78,
+      "shooting": 70,
+      "passing": 77,
+      "ball_control": 75,
+      "dribbling": 73,
+      "defense": 90,
+      "physical": 89,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_212",
+    "name": "Cairon Vexel",
+    "position": "CB",
+    "rarity": "Premium",
+    "ovr": 137,
+    "stats": {
+      "speed": 77,
+      "shooting": 71,
+      "passing": 76,
+      "ball_control": 74,
+      "dribbling": 72,
+      "defense": 89,
+      "physical": 88,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_213",
+    "name": "Daren Falvik",
+    "position": "RB",
+    "rarity": "Premium",
+    "ovr": 136,
+    "stats": {
+      "speed": 86,
+      "shooting": 72,
+      "passing": 78,
+      "ball_control": 79,
+      "dribbling": 81,
+      "defense": 85,
+      "physical": 84,
+      "stamina": 86,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_214",
+    "name": "Liron Veyron",
+    "position": "LB",
+    "rarity": "Premium",
+    "ovr": 136,
+    "stats": {
+      "speed": 85,
+      "shooting": 70,
+      "passing": 77,
+      "ball_control": 78,
+      "dribbling": 80,
+      "defense": 84,
+      "physical": 83,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_215",
+    "name": "Rivon Klyne",
+    "position": "DMF",
+    "rarity": "Premium",
+    "ovr": 135,
+    "stats": {
+      "speed": 80,
+      "shooting": 74,
+      "passing": 82,
+      "ball_control": 81,
+      "dribbling": 79,
+      "defense": 88,
+      "physical": 86,
+      "stamina": 84,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_216",
+    "name": "Zyren Falden",
+    "position": "CMF",
+    "rarity": "Premium",
+    "ovr": 135,
+    "stats": {
+      "speed": 81,
+      "shooting": 75,
+      "passing": 83,
+      "ball_control": 82,
+      "dribbling": 80,
+      "defense": 85,
+      "physical": 84,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_217",
+    "name": "Tavon Krex",
+    "position": "AMF",
+    "rarity": "Premium",
+    "ovr": 134,
+    "stats": {
+      "speed": 83,
+      "shooting": 77,
+      "passing": 86,
+      "ball_control": 85,
+      "dribbling": 84,
+      "defense": 80,
+      "physical": 82,
+      "stamina": 84,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_218",
+    "name": "Kiron Valtrex",
+    "position": "RWF",
+    "rarity": "Premium",
+    "ovr": 134,
+    "stats": {
+      "speed": 88,
+      "shooting": 79,
+      "passing": 81,
+      "ball_control": 83,
+      "dribbling": 85,
+      "defense": 70,
+      "physical": 81,
+      "stamina": 86,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_219",
+    "name": "Eryx Vornel",
+    "position": "LWF",
+    "rarity": "Premium",
+    "ovr": 134,
+    "stats": {
+      "speed": 89,
+      "shooting": 80,
+      "passing": 82,
+      "ball_control": 84,
+      "dribbling": 86,
+      "defense": 71,
+      "physical": 82,
+      "stamina": 87,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_220",
+    "name": "Torik Dexel",
+    "position": "CF",
+    "rarity": "Premium",
+    "ovr": 133,
+    "stats": {
+      "speed": 87,
+      "shooting": 83,
+      "passing": 78,
+      "ball_control": 82,
+      "dribbling": 85,
+      "defense": 65,
+      "physical": 83,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_221",
+    "name": "Ravon Valtor",
+    "position": "GK",
+    "rarity": "Premium",
+    "ovr": 133,
+    "stats": {
+      "gk_diving": 88,
+      "gk_reflexes": 87,
+      "gk_handling": 86,
+      "gk_positioning": 85,
+      "gk_kicking": 83,
+      "physical": 84,
+      "stamina": 86,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_222",
+    "name": "Daren Velix",
+    "position": "CB",
+    "rarity": "Premium",
+    "ovr": 132,
+    "stats": {
+      "speed": 75,
+      "shooting": 70,
+      "passing": 75,
+      "ball_control": 74,
+      "dribbling": 72,
+      "defense": 87,
+      "physical": 86,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_223",
+    "name": "Lyron Vexel",
+    "position": "RB",
+    "rarity": "Premium",
+    "ovr": 132,
+    "stats": {
+      "speed": 85,
+      "shooting": 73,
+      "passing": 78,
+      "ball_control": 79,
+      "dribbling": 81,
+      "defense": 83,
+      "physical": 82,
+      "stamina": 84,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_224",
+    "name": "Mavrix Lorik",
+    "position": "LB",
+    "rarity": "Premium",
+    "ovr": 132,
+    "stats": {
+      "speed": 84,
+      "shooting": 72,
+      "passing": 77,
+      "ball_control": 78,
+      "dribbling": 80,
+      "defense": 82,
+      "physical": 81,
+      "stamina": 83,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_225",
+    "name": "Zylen Moltek",
+    "position": "DMF",
+    "rarity": "Premium",
+    "ovr": 131,
+    "stats": {
+      "speed": 79,
+      "shooting": 74,
+      "passing": 81,
+      "ball_control": 80,
+      "dribbling": 78,
+      "defense": 86,
+      "physical": 84,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_226",
+    "name": "Cairon Veyro",
+    "position": "CMF",
+    "rarity": "Premium",
+    "ovr": 131,
+    "stats": {
+      "speed": 80,
+      "shooting": 75,
+      "passing": 82,
+      "ball_control": 81,
+      "dribbling": 79,
+      "defense": 83,
+      "physical": 82,
+      "stamina": 83,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_227",
+    "name": "Tavrix Daxon",
+    "position": "AMF",
+    "rarity": "Premium",
+    "ovr": 130,
+    "stats": {
+      "speed": 82,
+      "shooting": 77,
+      "passing": 84,
+      "ball_control": 83,
+      "dribbling": 82,
+      "defense": 79,
+      "physical": 81,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_228",
+    "name": "Eryx Falden",
+    "position": "RWF",
+    "rarity": "Premium",
+    "ovr": 130,
+    "stats": {
+      "speed": 87,
+      "shooting": 79,
+      "passing": 80,
+      "ball_control": 82,
+      "dribbling": 84,
+      "defense": 68,
+      "physical": 80,
+      "stamina": 85,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_229",
+    "name": "Loran Dexel",
+    "position": "LWF",
+    "rarity": "Premium",
+    "ovr": 130,
+    "stats": {
+      "speed": 88,
+      "shooting": 80,
+      "passing": 81,
+      "ball_control": 83,
+      "dribbling": 85,
+      "defense": 69,
+      "physical": 81,
+      "stamina": 86,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_230",
+    "name": "Daxel Molvik",
+    "position": "CF",
+    "rarity": "Premium",
+    "ovr": 129,
+    "stats": {
+      "speed": 86,
+      "shooting": 82,
+      "passing": 77,
+      "ball_control": 81,
+      "dribbling": 84,
+      "defense": 64,
+      "physical": 82,
+      "stamina": 84,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_231",
+    "name": "Ravik Vorik",
+    "position": "GK",
+    "rarity": "Premium",
+    "ovr": 129,
+    "stats": {
+      "gk_diving": 86,
+      "gk_reflexes": 85,
+      "gk_handling": 84,
+      "gk_positioning": 83,
+      "gk_kicking": 81,
+      "physical": 82,
+      "stamina": 85,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_232",
+    "name": "Cayden Valtor",
+    "position": "CB",
+    "rarity": "Premium",
+    "ovr": 128,
+    "stats": {
+      "speed": 74,
+      "shooting": 69,
+      "passing": 73,
+      "ball_control": 72,
+      "dribbling": 71,
+      "defense": 85,
+      "physical": 84,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_233",
+    "name": "Tavrix Lorik",
+    "position": "RB",
+    "rarity": "Premium",
+    "ovr": 128,
+    "stats": {
+      "speed": 84,
+      "shooting": 72,
+      "passing": 77,
+      "ball_control": 78,
+      "dribbling": 80,
+      "defense": 81,
+      "physical": 80,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_234",
+    "name": "Cairon Dexel",
+    "position": "LB",
+    "rarity": "Premium",
+    "ovr": 128,
+    "stats": {
+      "speed": 83,
+      "shooting": 71,
+      "passing": 76,
+      "ball_control": 77,
+      "dribbling": 79,
+      "defense": 80,
+      "physical": 79,
+      "stamina": 81,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_235",
+    "name": "Daren Valtor",
+    "position": "DMF",
+    "rarity": "Premium",
+    "ovr": 127,
+    "stats": {
+      "speed": 78,
+      "shooting": 73,
+      "passing": 79,
+      "ball_control": 78,
+      "dribbling": 76,
+      "defense": 83,
+      "physical": 82,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_236",
+    "name": "Lyron Falden",
+    "position": "CMF",
+    "rarity": "Premium",
+    "ovr": 127,
+    "stats": {
+      "speed": 79,
+      "shooting": 74,
+      "passing": 80,
+      "ball_control": 79,
+      "dribbling": 77,
+      "defense": 81,
+      "physical": 80,
+      "stamina": 81,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_237",
+    "name": "Mavrix Dexel",
+    "position": "AMF",
+    "rarity": "Premium",
+    "ovr": 126,
+    "stats": {
+      "speed": 81,
+      "shooting": 76,
+      "passing": 82,
+      "ball_control": 81,
+      "dribbling": 80,
+      "defense": 78,
+      "physical": 79,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_238",
+    "name": "Zyren Veyron",
+    "position": "RWF",
+    "rarity": "Premium",
+    "ovr": 126,
+    "stats": {
+      "speed": 86,
+      "shooting": 78,
+      "passing": 79,
+      "ball_control": 81,
+      "dribbling": 83,
+      "defense": 66,
+      "physical": 78,
+      "stamina": 82,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_239",
+    "name": "Eryx Lorvik",
+    "position": "LWF",
+    "rarity": "Premium",
+    "ovr": 126,
+    "stats": {
+      "speed": 87,
+      "shooting": 79,
+      "passing": 80,
+      "ball_control": 82,
+      "dribbling": 84,
+      "defense": 67,
+      "physical": 79,
+      "stamina": 83,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_240",
+    "name": "Torik Valtor",
+    "position": "CF",
+    "rarity": "Premium",
+    "ovr": 125,
+    "stats": {
+      "speed": 85,
+      "shooting": 81,
+      "passing": 76,
+      "ball_control": 80,
+      "dribbling": 83,
+      "defense": 63,
+      "physical": 80,
+      "stamina": 81,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_241",
+    "name": "Ravon Dexel",
+    "position": "GK",
+    "rarity": "Premium",
+    "ovr": 125,
+    "stats": {
+      "gk_diving": 84,
+      "gk_reflexes": 83,
+      "gk_handling": 82,
+      "gk_positioning": 81,
+      "gk_kicking": 79,
+      "physical": 80,
+      "stamina": 83,
+      "shooting": 40,
+      "passing": 60,
+      "dribbling": 40,
+      "ball_control": 50,
+      "defense": 50,
+      "speed": 60
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_242",
+    "name": "Daren Molvik",
+    "position": "CB",
+    "rarity": "Premium",
+    "ovr": 124,
+    "stats": {
+      "speed": 73,
+      "shooting": 68,
+      "passing": 72,
+      "ball_control": 71,
+      "dribbling": 70,
+      "defense": 83,
+      "physical": 82,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_243",
+    "name": "Lyron Valtrex",
+    "position": "RB",
+    "rarity": "Premium",
+    "ovr": 124,
+    "stats": {
+      "speed": 83,
+      "shooting": 71,
+      "passing": 76,
+      "ball_control": 77,
+      "dribbling": 79,
+      "defense": 79,
+      "physical": 78,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_244",
+    "name": "Mavrix Veyron",
+    "position": "LB",
+    "rarity": "Premium",
+    "ovr": 124,
+    "stats": {
+      "speed": 82,
+      "shooting": 70,
+      "passing": 75,
+      "ball_control": 76,
+      "dribbling": 78,
+      "defense": 78,
+      "physical": 77,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_245",
+    "name": "Zylen Lorik",
+    "position": "DMF",
+    "rarity": "Premium",
+    "ovr": 123,
+    "stats": {
+      "speed": 77,
+      "shooting": 72,
+      "passing": 77,
+      "ball_control": 76,
+      "dribbling": 74,
+      "defense": 81,
+      "physical": 80,
+      "stamina": 78,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_246",
+    "name": "Cairon Dexel",
+    "position": "CMF",
+    "rarity": "Premium",
+    "ovr": 123,
+    "stats": {
+      "speed": 78,
+      "shooting": 73,
+      "passing": 78,
+      "ball_control": 77,
+      "dribbling": 75,
+      "defense": 79,
+      "physical": 78,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_247",
+    "name": "Tavrix Valtor",
+    "position": "AMF",
+    "rarity": "Premium",
+    "ovr": 122,
+    "stats": {
+      "speed": 80,
+      "shooting": 75,
+      "passing": 80,
+      "ball_control": 79,
+      "dribbling": 78,
+      "defense": 76,
+      "physical": 77,
+      "stamina": 78,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_248",
+    "name": "Eryx Falven",
+    "position": "RWF",
+    "rarity": "Premium",
+    "ovr": 122,
+    "stats": {
+      "speed": 85,
+      "shooting": 77,
+      "passing": 78,
+      "ball_control": 80,
+      "dribbling": 82,
+      "defense": 64,
+      "physical": 76,
+      "stamina": 80,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_249",
+    "name": "Loran Veyron",
+    "position": "LWF",
+    "rarity": "Premium",
+    "ovr": 122,
+    "stats": {
+      "speed": 86,
+      "shooting": 78,
+      "passing": 79,
+      "ball_control": 81,
+      "dribbling": 83,
+      "defense": 65,
+      "physical": 77,
+      "stamina": 81,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_250",
+    "name": "Torik Dexel",
+    "position": "CF",
+    "rarity": "Premium",
+    "ovr": 121,
+    "stats": {
+      "speed": 84,
+      "shooting": 80,
+      "passing": 75,
+      "ball_control": 79,
+      "dribbling": 82,
+      "defense": 61,
+      "physical": 78,
+      "stamina": 79,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Heel Trick",
+      "First Time Shot",
+      "Fighting Spirit"
+    ]
+  },
+  {
+    "id": "PLAYER_251",
+    "name": "Knox Banks",
+    "position": "CF",
+    "rarity": "Premium",
+    "ovr": 64,
+    "stats": {
+      "shooting": 74,
+      "passing": 62,
+      "dribbling": 66,
+      "ball_control": 67,
+      "defense": 51,
+      "speed": 71,
+      "physical": 65,
+      "stamina": 68,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  },
+  {
+    "id": "PLAYER_252",
+    "name": "Enzo Banks",
+    "position": "SS",
+    "rarity": "Premium",
+    "ovr": 68,
+    "stats": {
+      "shooting": 80,
+      "passing": 62,
+      "dribbling": 75,
+      "ball_control": 67,
+      "defense": 54,
+      "speed": 71,
+      "physical": 70,
+      "stamina": 75,
+      "gk_reflexes": 10,
+      "gk_handling": 10,
+      "gk_diving": 10,
+      "gk_positioning": 10,
+      "gk_kicking": 10
+    },
+    "skills": [
+      "Cut Behind",
+      "Step On Control"
+    ]
+  }
+]

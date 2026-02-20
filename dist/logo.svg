@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- MRN Football Logo - Custom Developer Theme -->
+  <defs>
+    <!-- Premium gradients for depth -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff6b35"/>
+      <stop offset="30%" stop-color="#ff8c00"/>
+      <stop offset="60%" stop-color="#ff4500"/>
+      <stop offset="100%" stop-color="#8b0000"/>
+    </radialGradient>
+    
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd700"/>
+      <stop offset="50%" stop-color="#ffed4e"/>
+      <stop offset="100%" stop-color="#ff6b35"/>
+    </linearGradient>
+    
+    <linearGradient id="techBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3c72"/>
+      <stop offset="50%" stop-color="#2a5298"/>
+      <stop offset="100%" stop-color="#3498db"/>
+    </linearGradient>
+    
+    <filter id="premiumShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="3" result="offsetblur"/>
+      <feFlood flood-color="#000000" flood-opacity="0.4"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="innerGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="0" dy="1" result="offsetblur"/>
+      <feFlood flood-color="#ff6b35" flood-opacity="0.6"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <pattern id="carbonFiber" x="0" y="0" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#1a1a1a"/>
+      <circle cx="2" cy="2" r="0.5" fill="#2d2d2d"/>
+      <circle cx="6" cy="6" r="0.5" fill="#2d2d2d"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background with carbon fiber pattern -->
+  <rect width="400" height="400" fill="url(#carbonFiber)"/>
+  
+  <!-- Main circular logo area -->
+  <circle cx="200" cy="200" r="170" fill="white" stroke="url(#goldAccent)" stroke-width="3" filter="url(#premiumShadow)"/>
+  
+  <!-- Inner ring with tech gradient -->
+  <circle cx="200" cy="200" r="160" fill="none" stroke="url(#techBlue)" stroke-width="2" opacity="0.8"/>
+  
+  <!-- Central football element -->
+  <g transform="translate(200, 200)">
+    <!-- Main ball -->
+    <circle cx="0" cy="0" r="70" fill="white" stroke="#1e3c72" stroke-width="4" filter="url(#innerGlow)"/>
+    
+    <!-- Pentagon pattern -->
+    <g stroke="#1e3c72" stroke-width="3" fill="none" stroke-linejoin="round">
+      <!-- Center pentagon -->
+      <polygon points="0,-35 27,-10.5 17,28 -17,28 -27,-10.5"/>
+      
+      <!-- Connecting lines -->
+      <line x1="0" y1="-35" x2="0" y2="-105" opacity="0.9"/>
+      <line x1="27" y1="-10.5" x2="74" y2="-74" opacity="0.9"/>
+      <line x1="17" y1="28" x2="62" y2="62" opacity="0.9"/>
+      <line x1="-17" y1="28" x2="-62" y2="62" opacity="0.9"/>
+      <line x1="-27" y1="-10.5" x2="-74" y2="-74" opacity="0.9"/>
+    </g>
+    
+    <!-- High-detail intersection points -->
+    <g fill="#1e3c72" filter="url(#innerGlow)">
+      <!-- Top point -->
+      <circle cx="0" cy="-105" r="8">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="0" cy="-105" r="5" fill="#2a5298"/>
+      
+      <!-- Top-right point -->
+      <circle cx="74" cy="-74" r="8">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" begin="0.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="74" cy="-74" r="5" fill="#2a5298"/>
+      
+      <!-- Bottom-right point -->
+      <circle cx="62" cy="62" r="8">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="62" cy="62" r="5" fill="#2a5298"/>
+      
+      <!-- Bottom-left point -->
+      <circle cx="-62" cy="62" r="8">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" begin="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-62" cy="62" r="5" fill="#2a5298"/>
+      
+      <!-- Top-left point -->
+      <circle cx="-74" cy="-74" r="8">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" begin="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="-74" cy="-74" r="5" fill="#2a5298"/>
+    </g>
+    
+    <!-- MRN text with developer theme -->
+    <g filter="url(#innerGlow)">
+      <!-- Text background for clarity -->
+      <rect x="-40" y="-10" width="80" height="25" rx="4" fill="white" opacity="0.95"/>
+      
+      <!-- Main text -->
+      <text x="0" y="8" 
+            font-family="Arial Black, sans-serif" 
+            font-size="18" 
+            font-weight="900" 
+            text-anchor="middle" 
+            fill="#1e3c72"
+            stroke="white"
+            stroke-width="1">
+        MRN
+      </text>
+      
+      <!-- Subtitle -->
+      <text x="0" y="22" 
+            font-family="Arial, sans-serif" 
+            font-size="7" 
+            font-weight="bold" 
+            text-anchor="middle" 
+            fill="#3498db"
+            letter-spacing="3">
+        FOOTBALL
+      </text>
+    </g>
+  </g>
+  
+  <!-- Outer rotating ring with tech theme -->
+  <circle cx="200" cy="200" r="180" 
+           fill="none" 
+           stroke="url(#techBlue)" 
+           stroke-width="2" 
+           stroke-dasharray="8,4" 
+           opacity="0.7">
+    <animateTransform attributeName="transform" 
+                      type="rotate" 
+                      from="0 200 200" 
+                      to="360 200 200" 
+                      dur="45s" 
+                      repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Tech corner elements -->
+  <g fill="url(#goldAccent)" opacity="0.9">
+    <!-- Top-left circuit -->
+    <rect x="30" y="30" width="20" height="3" rx="1"/>
+    <circle cx="40" cy="31.5" r="2"/>
+    <rect x="50" y="30" width="20" height="3" rx="1"/>
+    
+    <!-- Top-right circuit -->
+    <rect x="330" y="30" width="20" height="3" rx="1"/>
+    <circle cx="340" cy="31.5" r="2"/>
+    <rect x="350" y="30" width="20" height="3" rx="1"/>
+    
+    <!-- Bottom-left circuit -->
+    <rect x="30" y="367" width="20" height="3" rx="1"/>
+    <circle cx="40" cy="368.5" r="2"/>
+    <rect x="50" y="367" width="20" height="3" rx="1"/>
+    
+    <!-- Bottom-right circuit -->
+    <rect x="330" y="367" width="20" height="3" rx="1"/>
+    <circle cx="340" cy="368.5" r="2"/>
+    <rect x="350" y="367" width="20" height="3" rx="1"/>
+  </g>
+  
+  <!-- Addictive pulse effect -->
+  <circle cx="200" cy="200" r="190" 
+           fill="none" 
+           stroke="url(#centerGlow)" 
+           stroke-width="1" 
+           opacity="0.6">
+    <animate attributeName="r" values="190;195;190" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Developer tagline -->
+  <text x="200" y="380" 
+        font-family="Arial, sans-serif" 
+        font-size="10" 
+        font-weight="bold" 
+        text-anchor="middle" 
+        fill="#ffd700" 
+        opacity="0.9">
+    LEGENDARY GAMING EXPERIENCE
+  </text>
+</svg>
